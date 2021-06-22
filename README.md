@@ -6,3 +6,6 @@ Esse projeto integra um modelo baseado em léxico para detecção de sentimento 
 
 - [How to deploy Machine Learning Model in Laravel Application](https://towardsdatascience.com/how-to-deploy-machine-learning-model-in-laravel-application-5e021494d316)
 - [Algorithmia](https://algorithmia.com/)
+
+
+![Home Page](public/images/homepage.png)
